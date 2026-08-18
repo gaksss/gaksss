@@ -1,5 +1,5 @@
 # 💫 A Propos de moi:
-👋 Bonjour, je suis Clément<br>💻 Développeur en formation<br>📚 Actuellement en apprentissage approfondi du développement web et web mobile<br>🚀 En recherche d'un stage<br>🛠️ Utilisation de tailwind, WAMP, npm, Composer, Symfony CLI et Vite<br><br><br>📫 N’hésitez pas à me contacter pour échanger autour du développement ou de projets innovants.
+👋 Bonjour, je suis Clément<br>💻 Développeur en formation<br>📚 Actuellement en apprentissage approfondi de la cybersécurité<br>🚀 En recherche d'une alternance<br>🛠️ Utilisation de tailwind, WAMP, npm, Composer, Symfony CLI et Vite<br><br><br>📫 N’hésitez pas à me contacter pour échanger autour du développement ou de projets innovants.
 
 
 ## 🌐 Socials:
